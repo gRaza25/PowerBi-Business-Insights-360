@@ -34,16 +34,16 @@ To analyze business performance across departments and provide insights to stake
 ├── 📁 pbix
 │   └── BI 360 Dashboard.pbix
 ├── 📁 project-video
-│   └── PowerBi Portfolio Project - Business Insights 360.mp4
+│   └── PowerBi-Portfolio-Project_Business-Insights-360.mp4
 ├── 📁 screenshots
 │   ├── Home.png
 │   ├── Info.png
-│   ├── Finance view.png
-│   ├── Sales view.png
-│   ├── Marketing view.png
-│   └── Supply chain view.png
-│   └── Executive view.png
-│   └── Data model.png
+│   ├── finance-view.png
+│   ├── sales-view.png
+│   ├── marketing-view.png
+│   └── supply-chain-view.png
+│   └── executive-view.png
+│   └── data-model.png
 │   └── Support.png
 ├── certificate.png
 └── README.md
@@ -54,19 +54,19 @@ To analyze business performance across departments and provide insights to stake
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Executive Overview  
-![Executive Overview](./screenshots/Executive view.png)
+![Executive Overview](/screenshots/executive-view.png)
 
 ### 🔹 Finance Dashboard  
-![Finance View](./screenshots/Finance view.png)
+![Finance View](/screenshots/finance-view.png)
 
 ### 🔹 Sales Dashboard  
-![Sales View](./screenshots/Sales view.png)
+![Sales View](./screenshots/sales-view.png)
 
 ### 🔹 Marketing Dashboard  
-![Marketing View](./screenshots/Marketing view.png)
+![Marketing View](./screenshots/marketing-view.png)
 
 ### 🔹 Supply Chain Dashboard  
-![Supply Chain View](./screenshots/Supply chain view.png)
+![Supply Chain View](./screenshots/supply-chain-view.png)
 
 ---
 
@@ -84,7 +84,7 @@ To analyze business performance across departments and provide insights to stake
 
 ## 📽️ Project Demo Video
 
-🎥 [Click here to watch the full project demo](./project-video/PowerBi Portfolio Project - Business Insights 360.mp4)
+🎥 [Click here to watch the full project demo](./project-video/PowerBi-Portfolio-Project_Business-Insights-360.mp4)
 
 ---
 
