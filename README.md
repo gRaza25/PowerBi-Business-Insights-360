@@ -84,7 +84,7 @@ To analyze business performance across departments and provide insights to stake
 
 ## 📽️ Project Demo Video
 
-🎥 [Click here to watch the full project demo](/project video/PowerBi-Portfolio-Project_Business-Insights-360.mp4)
+🎥 [Click here to watch the full project demo](/project-video/PowerBi-Portfolio-Project_Business-Insights-360.mp4)
 
 ---
 
