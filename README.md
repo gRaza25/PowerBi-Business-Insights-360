@@ -45,7 +45,7 @@ To analyze business performance across departments and provide insights to stake
 │   └── executive-view.png
 │   └── data-model.png
 │   └── Support.png
-├── certificate.png
+├── certificate.jpg
 └── README.md
 ```
 
@@ -92,7 +92,7 @@ To analyze business performance across departments and provide insights to stake
 
 This project was completed as part of the **“Get Job Ready: Power BI Data Analytics for All Levels 3.0”** course by Codebasics. I successfully passed the final exam and submitted the capstone project.
 
-![Certificate](./certificate.png)
+![Certificate](./certificate.jpg)
 
 ---
 
